@@ -15,12 +15,13 @@
     width: 58px;
     height: 58px;
     border-radius: 50%;
-    --color: #c44646;
+    --color: #f00e0e;
     --border: #e86060;
     background: var(--color);
     border: var(--border) 16px solid;
     animation: anim-1 5s linear 0s infinite;
 }
+
 
 .gear:first-child {
     top: 22px;
